@@ -29,19 +29,17 @@ def artwork():
      ██║  ███╗ ██╔████╔██║ ███████║ ██║ ██║   
      ██║   ██║ ██║╚██╔╝██║ ██╔══██║ ██║ ██║            
      ╚██████╔╝ ██║ ╚═╝ ██║ ██║  ██║ ██║ ███████╗       
-      ╚═════╝  ╚═╝     ╚═╝ ╚═╝  ╚═╝ ╚═╝ ╚══════╝  v2.1  
+      ╚═════╝  ╚═╝     ╚═╝ ╚═╝  ╚═╝ ╚═╝ ╚══════╝  v2.5  
  ██╗  ██╗ █████╗  ██████╗██╗  ██╗██╗███╗   ██╗ ██████╗ 
  ██║  ██║██╔══██╗██╔════╝██║ ██╔╝██║████╗  ██║██╔════╝
  ███████║███████║██║     █████╔╝ ██║██╔██╗ ██║██║  ███╗
  ██╔══██║██╔══██║██║     ██╔═██╗ ██║██║╚██╗██║██║   ██║
  ██║  ██║██║  ██║╚██████╗██║  ██╗██║██║ ╚████║╚██████╔╝
  ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝        
-⚠️WARNING:I AM NOT RESPONSIBLE FOR THE MISUSE OF THIS TOOL !
+⚠️ ATTENTION : CECI EST UN OUTIL D'AUTO TEST ET DE PROTECTION !
 *******************************************************
-* Author   : Akash Black Hat
-* GitHub   : https://github.com/akashblackhat
-* YouTub   : TECHNICAL AKASH SKILLS
-* Instagram: akashblackhat
+* Author   : Nabil CHERCHEB
+* GitHub   : https://github.com/cherchebnabil
 * password : passworld.txt
 *************USE VPN OR TOR SERVICE********************
 ''')
@@ -81,5 +79,5 @@ for password in passswfile:
 
     except smtplib.SMTPAuthenticationError:
         print("[-] Pasword Is Wrong. %s " % password)
-        # Author  : Akash Black Hat
-        #thank you hackers
+        # Author  : Nabil CHERCHEB
+        #Merci d'avoir utilisé cet outil
